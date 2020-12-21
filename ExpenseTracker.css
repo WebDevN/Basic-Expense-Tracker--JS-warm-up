@@ -1,0 +1,36 @@
+#formDiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: large;
+}
+#headerDiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+#inputDiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 4px solid blue;
+    padding: 20px;
+    border-radius: 20%;
+    margin-bottom: 50px;
+}
+#submit {
+    
+}
+table {
+    width: 100%;
+    margin-bottom: 10px;
+}
+table, td, th {
+    border: 1px solid #333;
+}
+th {
+    background-color: #f0efeb;
+}
